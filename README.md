@@ -1,0 +1,1 @@
+Python version of ["SIMPLE VIDEO STABILIZATION USING OPENCV"](http://nghiaho.com/?p=2093) with minor difference.
